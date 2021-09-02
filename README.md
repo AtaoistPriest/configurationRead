@@ -1,4 +1,4 @@
-# configRead
+# configReader
 This is a configuration reader coded by go.
 
 You can extend it by setting more parameters。
